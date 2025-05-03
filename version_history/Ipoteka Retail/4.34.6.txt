@@ -1,0 +1,5 @@
+Version: 4.34.6
+Release Date: Jan 15, 2025
+Release Description:
+Новый процесс выдачи онлайн-кредитов.
+Исправление ошибок.

@@ -1,0 +1,5 @@
+Version: 1.64.322
+Release Date: Sep 16, 2024
+Release Description:
+- Исправлены мелкие ошибки
+- Улучшена стабильность

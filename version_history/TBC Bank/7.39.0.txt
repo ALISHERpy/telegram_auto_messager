@@ -1,0 +1,4 @@
+Version: 7.39.0
+Release Date: Jan 16, 2025
+Release Description:
+Your banking experience made simpler. In this new version, filter your transaction history with one tap—your BNPL process just got easier. Plus, we’ve fixed some bugs to keep everything running smoothly. Update now and let us know what you think.

@@ -1,0 +1,7 @@
+Version: 3.7.0
+Release Date: Nov 26, 2024
+Release Description:
+What's new in the InfinBANK app:
+- Added ID card scanning option to the sign-up process
+- Improved online loan process
+- Reduced the number of application vulnerabilities

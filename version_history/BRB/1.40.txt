@@ -1,0 +1,19 @@
+Version: 1.40
+Release Date: Jan 13, 2025
+Release Description:
+Мы постоянно работаем над улучшением приложения BRB, чтобы сделать его ещё удобнее и надёжнее!
+В этом обновлении:
+Исправлены ошибки и повышена стабильность работы услуг:
+Онлайн ипотека
+Мой дом
+Микрозайм
+Общая производительность приложения
+Обновляйте приложение и пользуйтесь новыми возможностями без сбоев!
+Biz BRB ilovasini yanada qulayroq va ishonchliroq qilish uchun doimiy ravishda takomillashtirib boramiz!
+Ushbu yangilanishda:
+Xatoliklar tuzatildi va xizmatlarning barqaror ishlashi yaxshilandi:
+Onlayn ipoteka
+Mening uyim
+Mikroqarz
+Ilovaning umumiy samaradorligi
+Ilovani yangilang va mukammal imkoniyatlardan foydalaning!

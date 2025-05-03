@@ -1,0 +1,6 @@
+Version: 3.7.1
+Release Date: Dec 11, 2024
+Release Description:
+What's new:
+- The source of payment transactions now displays a fiscal receipt
+- When applying for credit, the additional source of income is not taken into account

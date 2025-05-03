@@ -1,0 +1,5 @@
+Version: 1.23.1
+Release Date: Aug 2, 2024
+Release Description:
+В этом обновлении сосредоточились на улучшении производительности и устранении багов, чтобы пользоваться приложением было ещё приятнее. Обновляйте и наслаждайтесь улучшениями!
+Ushbu relizda ilovadan foydalanishni yanada yoqimli qilish va unumdorlikni oshirish maqsadida barcha kichik xatolarni bartaraf etishga e’tibor qaratdik. Ilovani yangilang va o‘zgarishlardan bahramand bo‘ling!

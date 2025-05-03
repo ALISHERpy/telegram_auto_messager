@@ -1,0 +1,4 @@
+Version: 1.9.0
+Release Date: Jan 29, 2025
+Release Description:
+Detallar biz uchun muhim! Bu versiyada katta o‘zgarishlar bo‘lmasa-da, sizga yanada qulayroq bo‘lishi uchun kichik xatolarni bartaraf etishga alohida e’tibor berdik. Ilovani hoziroq yangilashingiz mumkin!

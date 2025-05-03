@@ -1,0 +1,21 @@
+Version: 3.1.1
+Release Date: Feb 12, 2025
+Release Description:
+- MoneySend/VisaDirect - pul o'tkazmalari qulayroq va tezlashdi
+- Visa obunalari - Endi siz obunalaringizni osongina boshqarishingiz mumkin
+- Visa/Mastercard - to'lov xavfsizligini oshirdi
+- O'tkazmalar va to'lovlar uchun yangi OTP funktsiyalari
+- Xavfsizlik yangilanishlari - ro'yxatdan o'tish, parol/qurilmani o'zgartirish (MyID)
+- Xatolar tuzatildi
+- MoneySend/VisaDirect - переводы стали удобнее и быстрее
+- Visa подписки - теперь можно легко управлять подписками
+- Visa/Mastercard - повышена безопасность платежей
+- Новые OTP-функции для переводов и платежей
+- Обновления безопасности - регистрация, смена пароля/устройства (MyID)
+- Исправлены ошибки
+- MoneySend/VisaDirect - Transfers are now faster and easier
+- Visa Subscriptions - Easily manage your subscriptions
+- Visa/Mastercard enhanced payment security
+- New OTP Features for transfers and payments
+- Security Updates - Registration, password/device change (MyID)|
+- Bug fixes

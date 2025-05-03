@@ -1,0 +1,7 @@
+Version: 1.36
+Release Date: Sep 26, 2024
+Release Description:
+We are pleased to announce that a new version of our mobile application has been released with an updated design!We are pleased to announce that a new version of our mobile application has been released with an updated design!
+1.The monitoring bugs fixed
+2.added hide balance each card
+3.Bug Fixed

@@ -1,0 +1,4 @@
+Version: 7.35.0
+Release Date: Nov 18, 2024
+Release Description:
+Addressed and fixed bugs to enhance your experience. Thank you for your feedback!

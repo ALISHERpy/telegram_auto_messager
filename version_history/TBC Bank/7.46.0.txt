@@ -1,0 +1,4 @@
+Version: 7.46.0
+Release Date: Mar 11, 2025
+Release Description:
+Hi! We cleaned up some bugs in our latest update to make everything work better for you. Check it out!

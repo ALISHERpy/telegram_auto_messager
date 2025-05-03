@@ -1,0 +1,15 @@
+Version: 1.0.4
+Release Date: May 24, 2024
+Release Description:
+Biz mobil ilovamizning yangi versiyasi chiqarilganini mamnuniyat bilan e'lon qilamiz. Ushbu yangilanishda jamoamiz ish samaradorligi va foydalanish qulayligini yaxshilashga e’tibor qaratdi. Asosiy o'zgarishlar quyidagilardan iborat:
+1. Ilovaning ishlash tezligi optimallashtirildi
+2. Asosiy ekrandan to'lovlar va pul o'tkazmalarini amalga oshirish qulayligi yaxshilandi
+3. O’tkazmalarning xavfsizligi va tezligi oshirildi
+4. Islomiy xizmatlar bo'yicha so'rov tuzatildi
+5. Balansni yangilash so'rovi yo’lga qo’yildi
+6. P2P o'tkazmalarini tasdiqlash ekrani qo'shildi
+7. Mijoz tajribasini yaxshilash uchun ilova tahlillari ulandi
+8. Xizmatlar ekrani dizayni yaxshilandi
+9. To'lovlar tarixi xizmati optimallashtirildi
+10. Ilovaning animatsiyasi yaxshilandi
+Yangi funksiya va afzalliklardan foydalanish uchun ilovani oxirgi versiyaga yangilang. Ishonchingiz uchun rahmat!

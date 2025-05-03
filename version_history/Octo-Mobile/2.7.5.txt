@@ -1,0 +1,4 @@
+Version: 2.7.5
+Release Date: May 13, 2024
+Release Description:
+* Исправления ошибок и оптимизация интерфейса

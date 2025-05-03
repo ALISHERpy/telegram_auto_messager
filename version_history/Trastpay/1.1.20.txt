@@ -1,0 +1,11 @@
+Version: 1.1.20
+Release Date: Nov 23, 2023
+Release Description:
+Uz
+Omonatlar bilan ishlash optimallashtirilgan
+Bank->Hamyonlar->Сумовой Счет->O‘tkazmalar oynasidan omonat bo‘yicha hisoblangan foizlarni yechib olish imkoniyati qo‘shildi.
+Bir qator kamchiliklar bartaraf qilindi
+Ru
+Оптимизировано отображение и работа со вкладами
+Добавлена возможность снимать начисленные по вкладу % из окна Мой Банк->Кошельки->Сумовой счет-> Переводы
+Исправлен ряд дефектов

@@ -1,0 +1,6 @@
+Version: 2.0.11
+Release Date: Apr 5, 2024
+Release Description:
+Исправление багов и ошибок приложения
+Ilovadagi xato va kamchiliklarni tuzatish
+Fixing bugs and application errors

@@ -1,0 +1,8 @@
+Version: 1.11.0
+Release Date: Mar 4, 2025
+Release Description:
+Yangiliklar bilan qaytdik:
+• mahsulotlar vitrinasiga animatsiyalar qo‘shildi — endi u to'g'ridan-to'g'ri ekraningizda jonlanadi
+• endi aloqa markazimizdagi xodimlardan bank qo‘ng‘iroqlari va xabarlarini o‘chirib qo‘yishni so'rashingiz mumkin
+• ilovaga qo'shilgan telefon raqamingiz bilan biror narsa yuz bergan bo‘lsa, uni yangisiga almashtirish imkoniyati paydo bo‘ldi
+• kichik va katta xatolarni tuzatib, interfeysni yaxshiladik va ilovani deyarli mukammal darajaga yetkazdik

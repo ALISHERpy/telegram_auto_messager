@@ -1,0 +1,4 @@
+Version: 1.0.9
+Release Date: Aug 10, 2023
+Release Description:
+Сделали передачу информации о кешбеку в налоговую

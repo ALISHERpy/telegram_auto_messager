@@ -1,0 +1,10 @@
+Version: 1.10.0
+Release Date: Feb 19, 2025
+Release Description:
+Yangiliklar bilan qaytdik!
+Barcha mahsulotlarimizni bitta zamonaviy vitrinaga joylashtirdik, endi ularni buyurtma qilish ancha osonroq bo‘ldi!
+Vitrinada sizni nimalar kutmoqda:
+• AVO platinum plastik kartasi — qator afzalliklarga ega klassika
+• AVO UZCARD virtual kartasi — uni Payme, Click, Paynet, Uzumi yoki istalgan boshqa to’lov ilovasiga biriktirish mumkin
+• AVO to‘lov stikeri — telefoningizga yopishtiring va terminal mavjud bo‘lgan hamma joyda stiker bilan to‘lang: do‘kon, kafe, metro va sevimli restoranlarda
+Interfeysimiz endi qulayroq bo‘ldi — ko‘proq yorqin tasvirlar, kamroq murakkab tugmalar, yuklab olib shaxsan baho bering! Barcha bank kartalari qo‘l ostingizda, o‘zingizga keraklisini tanlang va to‘g‘ridan-to‘g‘ri ilovada buyurtma bering.

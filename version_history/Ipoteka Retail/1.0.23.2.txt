@@ -1,0 +1,5 @@
+Version: 1.0.23.2
+Release Date: Oct 26, 2023
+Release Description:
+Добавлены следующие функции:
+•  Обновление версии SDK MyID.

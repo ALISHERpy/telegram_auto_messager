@@ -1,0 +1,9 @@
+Version: 1.18
+Release Date: Oct 25, 2023
+Release Description:
+-﻿﻿Identifikatsiya jarayonidagi xatoliklar bartaraf etildi
+-﻿Virtual kartalar to'liq raqamini sms orqali yuborish xizmati qo`shildi
+-﻿Kredit ma`lumotlari yangilandi
+-Исправлена ошибки при идентификации
+-﻿﻿Добавлена услуга отправка номер виртуальной карты
+-﻿﻿Обновлена кредитная информация

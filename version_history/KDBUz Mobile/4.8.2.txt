@@ -1,0 +1,9 @@
+Version: 4.8.2
+Release Date: Apr 3, 2024
+Release Description:
+Nima yangiliklar:
+- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi. Endilikda deposit ochishda filial maydonini tanlashingiz kerak va  shuningdek chatda ham.
+What's new:
+- Some bugs were fixed and improvements were made. Now you must select a branch field when opening a deposit and also in the chat.
+Что нового:
+- Исправлены некоторые ошибки и внесены улучшения. Теперь необходимо выбирать поле филиала при открытии депозита, а также в чате.

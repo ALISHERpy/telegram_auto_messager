@@ -1,0 +1,4 @@
+Version: 1.0.34
+Release Date: Nov 28, 2024
+Release Description:
+Усилены меры безопасности

@@ -1,0 +1,5 @@
+Version: 1.22
+Release Date: Jan 11, 2024
+Release Description:
+-Pul o`tkazmalari oynası yangilandi
+-Kamchiliklar bartaraf etildi

@@ -1,0 +1,4 @@
+Version: 1.0.5
+Release Date: 7 Jan 2025
+Release Description:
+исправлены незначительные ошибки

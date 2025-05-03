@@ -1,0 +1,4 @@
+Version: 1.4.15
+Release Date: Sep 4, 2024
+Release Description:
+Ilovadagi xatolar yangi qo'zg'olonni boshlab qo'yishdi, lekin biz ilovamizni obodonlashtirish uchun ficha-himoyachilarni yubordik. Ular vazifani a'lo darajada bajarishdi!

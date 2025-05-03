@@ -1,0 +1,5 @@
+Version: 1.25
+Release Date: Apr 8, 2024
+Release Description:
+-Suhoor and Iftar times added to home page
+-Payment API is updated

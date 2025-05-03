@@ -1,0 +1,5 @@
+Version: 1.22.2
+Release Date: Jul 26, 2024
+Release Description:
+В новом релизе сделали приложение ещё безопаснее и упростили процесс оплаты.
+Yangi relizda endi ilova yanada xavfsizroq, to‘lovlarni amalga oshirish esa soddaroq.

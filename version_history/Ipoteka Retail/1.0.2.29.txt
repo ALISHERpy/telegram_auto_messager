@@ -1,0 +1,4 @@
+Version: 1.0.2.29
+Release Date: Mar 11, 2023
+Release Description:
+Исправлен белый экран при отсутствии интернета.

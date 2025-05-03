@@ -1,0 +1,36 @@
+Version: 1.38
+Release Date: Nov 5, 2024
+Release Description:
+Rebrending — Ilova yangicha ko'rinish va zamonaviy uslubda yangilandi, siz uchun yanada qulay va jozibador.
+Nimalar o’zgardi:
+•	Yangi Asosiy Ekran — ilova interfeysi yanada qulay va foydalanuvchiga moslashuvchan ko’rinishga ega bo’ldi.
+•	Shaxsiy kabinet — shaxsiy ma'lumotlarni boshqarish endi osonroq va qulayroq.
+•	Kartalar dizayni — bank kartalari dizayni yangilandi, foydalanish esa yanada qulaylashdi.
+•	Xavfsizlik kuchaytirildi — shaxsiy ma'lumotlaringiz himoyasi uchun xavfsizlik choralari yanada kuchaytirildi.
+•	Push Xabarnomalar — muhim yangiliklar va har bir tranzaksiyadan xabardor bo’lib boring.
+•	To’lovlar bo’limi — to’lovlarni amalga oshirish yanada soddalashtirildi.
+•	Valyuta kurslari — valyuta kurslari haqidagi ma'lumotlar endi yangilanib turadi va tezkor ko’rinishda.
+•	Mikroqarz imkoniyati — endi barcha bank kartalariga mikroqarz olish imkoniyati mavjud.
+•	Monitoring takomillashtirildi — xarajatlar va moliyaviy holatni kuzatish qulaylashtirildi.
+Ребрендинг — Приложение обновилось в новом современном стиле, делая его более удобным и привлекательным для вас.
+Что изменилось:
+•	Новый главный экран — интерфейс приложения стал более удобным и адаптируемым для пользователя.
+•	Личный кабинет — управление личными данными стало проще и удобнее.
+•	Дизайн карт — обновлен дизайн банковских карт, пользоваться ими стало еще удобнее.
+•	Усилена безопасность — повышенные меры защиты для безопасности ваших личных данных.
+•	Push-уведомления — будьте в курсе важных новостей и каждой транзакции.
+•	Раздел платежей — совершать платежи стало еще проще.
+•	Курсы валют — информация о курсах валют теперь обновляется в реальном времени.
+•	Возможность микрозаймов — теперь можно оформить микрозайм на любую банковскую карту.
+•	Улучшен мониторинг — отслеживать расходы и финансовое состояние стало удобнее.
+Rebranding — The app has a fresh, modern look, making it more convenient and attractive for you.
+What’s changed:
+•	New Main Screen — the app interface is now more user-friendly and adaptable.
+•	Personal Cabinet — managing personal information is now easier and more convenient.
+•	Card Design — the bank card design has been updated, making it more user-friendly.
+•	Enhanced Security — improved measures for better protection of your personal data.
+•	Push Notifications — stay updated on important news and each transaction.
+•	Payments Section — making payments is now even simpler.
+•	Currency Rates — real-time updates on currency rates are now available.
+•	Microloan Option — now you can get microloans on any bank card.
+•	Improved Monitoring — tracking expenses and financial status has become easier.

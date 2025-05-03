@@ -1,0 +1,8 @@
+Version: 1.2.1
+Release Date: Jan 9, 2025
+Release Description:
+Что нового:
+Исправление ошибок
+ATTO мониторинг
+Оптимизация погашения по ID
+Оптимизация MyID

@@ -1,0 +1,9 @@
+Version: 2.1.8
+Release Date: Dec 27, 2024
+Release Description:
+- Добавлена возможность блокировать и разблокировать карты
+- Реализован сброс PIN-кода
+- Устранены мелкие дефекты.
+- Karta bloklash va blokdan chiqarish imkoniyati qo'shildi
+- PIN-kodni tiklash imkoniyati qo‘shildi
+- Kichik xatolar tuzatildi.

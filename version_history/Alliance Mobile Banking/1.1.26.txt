@@ -1,0 +1,6 @@
+Version: 1.1.26
+Release Date: 15 Jan 2025
+Release Description:
+Уважаемые пользователи Alliance:
+- Сделали более стабильным, исправили ошибки.
+С уважением, Asia Alliance Bank.

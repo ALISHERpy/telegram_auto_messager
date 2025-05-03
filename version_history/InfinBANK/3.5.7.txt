@@ -1,0 +1,9 @@
+Version: 3.5.7
+Release Date: Jul 3, 2024
+Release Description:
+What's new:
+We continue to work on improving our app to make managing your finances even more convenient and secure. This update includes:
+- Now, you can easily review your detailed credit card statement directly in the app.
+- Monitor your expenses and manage your budget with the new analytics function.
+- We changed the confirmation method. Now instead of SMS, you will receive a confirmation code to your email for even more security for your online purchases.
+- Bugs fixed and performance improved for a more stable app.

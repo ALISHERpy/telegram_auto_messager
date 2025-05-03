@@ -1,0 +1,7 @@
+Version: 2.8.0
+Release Date: Jan 28, 2025
+Release Description:
+Забираем в новый год лучшее. Сохраняем до конца февраля переводы без комиссии с карты Uzum — как и прежде, до 100 млн сум в месяц на Uzcard и Humo. Внутри банка без изменений — переводы всегда бесплатные.
+Ещё бережнее подходим к управлению лимитом: учитываем больше параметров и адаптируем доступную сумму под комфортный бюджет. Платить по микрозаймам и рассрочкам тоже стало удобнее — вносите всю сумму досрочно и уменьшайте проценты.
+Yangi yilga eng sarasini olib o’tamiz. Uzum kartadan komissiyasiz o’tkazmalarni fevral so’ngigacha uzaytiramiz — ilgaridek, Uzcard va Humo kartalariga oyiga 100 mln so’mgacha o’tkazmalar bepul. Bank ichida o’tkazmalar o’zgarmasdan — doimo bepul.
+Limitlar boshqaruviga yanada ehtiyotkorroq yondashamiz: ko’proq parametrlarni inobatga olamiz hamda mavjud summani o’zingiz uchun qulay byudjetga moslashtiramiz. Mikroqarz va nasiya bo’yicha to’lash ham endi yanada qulay — butun summani muddatidan oldin kiriting va foizlarni kamaytiring.

@@ -1,0 +1,4 @@
+Version: 1.37
+Release Date: Oct 16, 2024
+Release Description:
+Favourite payments are fixed

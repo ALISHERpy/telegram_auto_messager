@@ -1,0 +1,5 @@
+Version: 1.4.11
+Release Date: Jul 2, 2024
+Release Description:
+Jamoamiz ilovadagi kamchiliklarni topish uchun astoydil harakat qilishdi. Xatolarni tuzatib, yangi imkoniyatlarni qo'shishdi! Endi hammasi xamirdan qil sug'urgandek ishlaydi!
+Yangi versiyasini tezroq yuklab oling!

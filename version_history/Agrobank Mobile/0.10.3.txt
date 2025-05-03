@@ -1,0 +1,4 @@
+Version: 0.10.3
+Release Date: Mar 24, 2023
+Release Description:
+Улучшение производительности и исправление ошибок

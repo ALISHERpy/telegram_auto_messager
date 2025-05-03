@@ -1,0 +1,4 @@
+Version: 1.9.1
+Release Date: Feb 7, 2025
+Release Description:
+Kodlarning qorong‘u burchaklarida xatolar yashirinib yotardi... ammo dasturchilarimiz ov qilishga chiqishdi! Ular xatolarni topib, qurshab olishdi va qochishga hech qanday imkon qoldirmay bartaraf etishdi. Kopirayterlarimiz, xuddi adabiy oshpazlardek, matnlarni aniqlik bilan ziravorladilar, test o'tkazuvchilar esa har bir tugmani o‘z joyida tekshirib, tezkor nazorat o‘tkazishdi. Ilovani yangilangan versiyasi sizni kutmoqda!

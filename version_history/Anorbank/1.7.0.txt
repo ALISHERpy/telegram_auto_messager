@@ -1,0 +1,5 @@
+Version: 1.7.0
+Release Date: Apr 17, 2024
+Release Description:
+Earlier, we told you about Uzcard Kids and we're glad that you and your children liked the new card. If you haven't ordered yet, hurry up — the cards may run out.
+We continue to work on new features and the app to evoke positive emotions. We are fixing bugs, making the app faster and more convenient. We hope you will like it!

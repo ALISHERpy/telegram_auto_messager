@@ -1,0 +1,8 @@
+Version: 1.4.8
+Release Date: May 8, 2024
+Release Description:
+Ilovaning yangi versiyasi tayyor, uni yuklab oling. Odatga ko’ra, xatolarni tuzatdik va xavfsizlikni oshirdik.
+Batafsil aytib beramiz:
+1. Hisob raqamini nusxalash imkoniyati qo’shildi. Hisob tafsilotlarini qayerda ko’rish mumkin: «Mahsulotlar» bo’limi → «Hisoblar» → AVO hisobiga bosing → «Rekvizitlar» blokiga kiring
+2. Endi ro’yxatdan o’tishda PINFL dan foydalanishingiz mumkin
+3. Ko’chirma: ilovada hisob bo’yicha bepul oylik ko’chirma oling. Bu sizga AVO platinum kartasidagi xarajat va daromadlarni nazorat qilishda yordam beradi

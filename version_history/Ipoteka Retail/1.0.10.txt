@@ -1,0 +1,5 @@
+Version: 1.0.10
+Release Date: Nov 30, 2022
+Release Description:
+Изменен вид Умного перевода.
+Управление Push уведомлениями.

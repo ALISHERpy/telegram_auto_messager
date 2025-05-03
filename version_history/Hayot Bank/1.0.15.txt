@@ -1,0 +1,4 @@
+Version: 1.0.15
+Release Date: Feb 4, 2025
+Release Description:
+Ilovaning yangilangan versiyasida kichik xatolar tuzatildi va barqarorlik yaxshilandi.

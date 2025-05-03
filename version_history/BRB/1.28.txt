@@ -1,0 +1,12 @@
+Version: 1.28
+Release Date: Jun 6, 2024
+Release Description:
+-New Design
+-Data and data combinations are used to:
+-identify the app;
+-identify user session;
+-identify user's device;
+-track events caused by user's actions in the application;
+-store custom user attributes;
+-identify user's sessions in other applications via global identifier;
+-check user's actions for signs of fraudulent or automated (bot) activity.

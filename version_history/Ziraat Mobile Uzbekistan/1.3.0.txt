@@ -1,0 +1,6 @@
+Version: 1.3.0
+Release Date: 1 Apr 2021
+Release Description:
+- Sms confirmation was removed from conversion
+- forgot password bugs were fixed
+- minor bugs fix

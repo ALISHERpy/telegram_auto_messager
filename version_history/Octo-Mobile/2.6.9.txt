@@ -1,0 +1,4 @@
+Version: 2.6.9
+Release Date: Jan 22, 2024
+Release Description:
+* Исправления ошибок и оптимизация интерфейса

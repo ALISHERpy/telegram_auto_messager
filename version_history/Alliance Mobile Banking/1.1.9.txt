@@ -1,0 +1,4 @@
+Version: 1.1.9
+Release Date: 20 Jun 2024
+Release Description:
+- Добавлены новые курсы валют.

@@ -1,0 +1,5 @@
+Version: 1.25.1
+Release Date: Sep 6, 2024
+Release Description:
+В этом обновлении улучшили пользование приложением и устранили ряд сбоев и багов. Теперь обмен валют стал более надёжным и удобным. После установки обновления у вас появится возможность оплачивать метро с помощью QR-кода через Uzum Pay в упрощенном порядке.
+Ushbu yangilanishda ilovadan foydalanish yaxshilandi hamda bir qator nosozlik va xatolar bartaraf etildi. Endi valyuta ayirboshlash yanada ishonchliroq va qulayroq. Ilovani yangilaganingizdan so‘ng, Uzum Pay orqali soddalashtirilgan tarzda QR-kod yordamida metro yo‘l haqi to‘lovlarini amalga oshirishingiz mumkin.

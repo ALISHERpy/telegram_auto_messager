@@ -1,0 +1,15 @@
+Version: 1.0.17
+Release Date: Sep 18, 2024
+Release Description:
+-Endilikda ta'lim kreditini to'liq onlayn tarzda olish imkoniyati mavjud.
+-"Kredit axborot tahliliy markazi" kredit byurosidan ma'lumot olish imkoniyati yaratildi.
+-Tizim samaradorligi oshirildi va optimallashtirildi.
+-Qulay foydalanish uchun xatolar tuzatildi.
+-Теперь, невероятная возможность - получить образовательный кредит онлайн!
+-Добавлена функция получения информация со стороны кредитного бюро "Кредитно-информационный аналитический центр”
+-Оптимизирована производительность и повышена стабильность
+-Исправлены ошибки для более надежного использования
+-A new incredible opportunity to obtain an education loan online.
+-Added the option to receive information from the Credit Bureau "Credit Information and Analytical Center."
+-Performance has been optimized and stability improved.
+-Bugs fixed for more reliable usage.

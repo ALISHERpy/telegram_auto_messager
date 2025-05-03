@@ -1,0 +1,11 @@
+Version: 2.1.0
+Release Date: Aug 10, 2024
+Release Description:
+- Virtual kartalarga buyurtma berish imkoniyati
+- Karta rekvizitlarini namoyishi
+- Bank mahsulotlarining tezlashtirilgan namoyishi
+- Kamchiliklar bartaraf etildi
+- Возможность заказа виртуальных карт
+- Отображение реквизитов карты
+- Ускорено отображение банковских продуктов
+- Устранены дефекты

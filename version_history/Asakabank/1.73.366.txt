@@ -1,0 +1,5 @@
+Version: 1.73.366
+Release Date: Mar 6, 2025
+Release Description:
+- Исправлены мелкие ошибки
+- Улучшена стабильность

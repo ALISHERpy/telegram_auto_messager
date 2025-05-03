@@ -1,0 +1,5 @@
+Version: 3.5.2
+Release Date: Jan 15, 2024
+Release Description:
+What's new:
+From January 15, 2023, new cards issued in the Uzcard system will require mandatory activation. And our new version of the application will allow you to do this easily and quickly

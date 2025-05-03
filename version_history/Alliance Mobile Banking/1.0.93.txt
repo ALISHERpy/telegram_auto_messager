@@ -1,0 +1,4 @@
+Version: 1.0.93
+Release Date: 13 Oct 2023
+Release Description:
+Исправлены ошибки в порте Swift.

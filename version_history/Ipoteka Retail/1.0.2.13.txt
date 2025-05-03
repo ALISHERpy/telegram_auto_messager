@@ -1,0 +1,5 @@
+Version: 1.0.2.13
+Release Date: Dec 3, 2022
+Release Description:
+Улучшена работа.
+Исправлены некоторые ошибки.

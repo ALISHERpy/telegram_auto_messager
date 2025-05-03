@@ -1,0 +1,5 @@
+Version: 0.22.138
+Release Date: Nov 20, 2024
+Release Description:
+- Xavfsizlik ishlari
+- Xatoliklar tuzatildi

@@ -1,0 +1,9 @@
+Version: 1.4.0
+Release Date: 26 Apr 2021
+Release Description:
+- Last transactions - no records view
+- Account statements
+- Last Transaction bug fix
+-  My cards bug fix
+-  Fixing titles at My Accounts and My Cards(make them same)
+-  Bank on Map was added

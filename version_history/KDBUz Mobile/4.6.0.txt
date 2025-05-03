@@ -1,0 +1,9 @@
+Version: 4.6.0
+Release Date: Mar 1, 2024
+Release Description:
+Nima yangiliklar:
+- Bazı xatolikar tuzatildi va yaxshilandi.
+What's new:
+- Some bugs fixed and improvements.
+Что нового:
+- Исправлены некоторые ошибки и внесены улучшения.

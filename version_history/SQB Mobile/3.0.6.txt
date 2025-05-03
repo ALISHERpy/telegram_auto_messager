@@ -1,0 +1,4 @@
+Version: 3.0.6
+Release Date: Sep 10, 2024
+Release Description:
+- исправлены мелкие ошибки

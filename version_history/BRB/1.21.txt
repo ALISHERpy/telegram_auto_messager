@@ -1,0 +1,5 @@
+Version: 1.21
+Release Date: Dec 30, 2023
+Release Description:
+Monitoring cards is added to Home page
+Minor changes

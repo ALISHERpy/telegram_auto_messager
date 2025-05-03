@@ -1,0 +1,4 @@
+Version: 1.0.94
+Release Date: 20 Oct 2023
+Release Description:
+Исправлены ошибки в порте Set Pin TET.

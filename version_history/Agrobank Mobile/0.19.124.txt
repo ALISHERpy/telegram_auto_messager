@@ -1,0 +1,6 @@
+Version: 0.19.124
+Release Date: Feb 29, 2024
+Release Description:
+- Xatolar tuzatildi
+- Исправлены ошибки
+- Fixed bugs

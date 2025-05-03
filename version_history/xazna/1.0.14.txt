@@ -1,0 +1,12 @@
+Version: 1.0.14
+Release Date: Feb 3, 2024
+Release Description:
+- Ishlash optimallashtirildi va barqarorlik yaxshilandi.
+- Ishonchliroq foydalanish uchun xatolar tuzatildi.
+- O'zaro qulayroq ishlash uchun interfeys yangilandi.
+-Оптимизированы производительности и повышена стабильность.
+- Исправлены ошибки для более надежного использования.
+- Обновили интерфейс для более комфортного взаимодействия.
+- Performance optimized and enhanced stability.
+- Bugs fixed for more reliable usage.
+- Updated interface for a more comfortable interaction.

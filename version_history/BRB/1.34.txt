@@ -1,0 +1,10 @@
+Version: 1.34
+Release Date: Aug 14, 2024
+Release Description:
+The Privacy Policy for mobile apps contains the following information:
+-introductory part, which describes the goals and objectives of using the Privacy Policy;
+-user's data that the app collects and processes*;
+-purpose of collecting and processing data;
+-conditions for processing and transferring user's data to third parties;
+-measures to protect user's data;
+-conditions for changing the Privacy Policy.

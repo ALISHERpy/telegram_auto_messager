@@ -1,0 +1,4 @@
+Version: 2.10.1
+Release Date: Mar 4, 2025
+Release Description:
+Исправили редкую ошибку, возникавшую при переводах

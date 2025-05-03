@@ -1,0 +1,5 @@
+Version: 1.0.10
+Release Date: Aug 19, 2024
+Release Description:
+Ushbu yangilashda biz ilovaning ishlashini yaxshiladik va milliy valyutada omonat ochish imkoniyatini qo'shdik.
+Takomillashgan yangi imkoniyatlardan foydalanish uchun ilovani yangilang.

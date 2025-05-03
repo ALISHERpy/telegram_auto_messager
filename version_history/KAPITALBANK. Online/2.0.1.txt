@@ -1,0 +1,18 @@
+Version: 2.0.1
+Release Date: Dec 20, 2023
+Release Description:
+Редизайн приложения
+Интерфейс стал еще удобнее - произведён глобальный редизайн, который затрагивает все экраны приложения. Изменены визуальный стиль, цвета и все элементы.
+Тёмная тема
+Добавлена возможность изменять цветовую тему в приложении
+Исправление багов и ошибок приложения
+Ilovani qayta loyihalash
+Interfeys yanada qulayroq bo’ldi – ilovaning barcha  ekranlariga ta’sir ko’rsatadigan global qayta loyihalash dizayni amalga oshirildi. Vizual uslub, ranglar va barcha elementlar o’zgartirildi.
+Qorong’i mavzu
+Ilovada rang mavzusini o’zgartirish imkoniyati qo’shimcha qilindi.
+Ilovadagi xato va kamchiliklarni tuzatish
+Application Redesign
+The interface has become even more convenient - a global redesign that affects all application screens has been made. The visual style, colours and all elements have been changed.
+Dark Theme
+The ability to change the colour theme in the application is added.
+Fixing bugs and application errors

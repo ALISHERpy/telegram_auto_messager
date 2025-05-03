@@ -1,0 +1,9 @@
+Version: 8.7.5
+Release Date: Nov 1, 2024
+Release Description:
+Nima yangiliklar:
+- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi. To'lovlar bo'limida o'zgarishlar kiritildi.
+What's new:
+- Fixed some bugs and made improvements. Changes have been made to the Payments section.
+Что нового:
+- Исправлены некоторые ошибки и внесены улучшения. Внесены изменения в раздел Платежи.

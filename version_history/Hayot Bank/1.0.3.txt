@@ -1,0 +1,4 @@
+Version: 1.0.3
+Release Date: Apr 24, 2024
+Release Description:
+This update includes bug fixes aimed to improve the stability and performance of the application.

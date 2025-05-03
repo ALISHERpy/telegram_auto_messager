@@ -1,0 +1,6 @@
+Version: 2.0.15
+Release Date: Sep 18, 2024
+Release Description:
+Исправление багов и ошибок приложения
+Ilovadagi xato va kamchiliklarni tuzatish
+Fixing bugs and application errors

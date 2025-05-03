@@ -1,0 +1,5 @@
+Version: 1.0.97
+Release Date: Feb 10, 2025
+Release Description:
+Offlayn omonatlarni ko'ra olish va to'ldirish imkoniyati qo'shildi
+Kartadan kartaga pul o'tkazishda kvitansiyani ulashish qulaylashtirildi

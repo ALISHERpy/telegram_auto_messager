@@ -1,0 +1,5 @@
+Version: 2.9.0
+Release Date: Feb 5, 2025
+Release Description:
+Менять пароль в приложении стало ещё удобнее — теперь это можно делать самостоятельно. Если вы уже подтверждали личность, то достаточно пройти верификацию по лицу. А дальше всё как обычно: придумываете секретную комбинацию из букв, цифр и символов и пользуетесь любимым банковским приложением.
+Ilovada parolni almashtirish endi yanada qulay — buni mustaqil bajarishingiz mumkin. Agar ilgari shaxsingizni tasdiqlagan bo'lsangiz, yuz bo'yicha verifikatsiyadan o'tishning o'zi kifoya: harflar, raqamlar va belgilardan iborat sirli kombinatsiyani o'ylab topasiz va sevimli bank ilovangizdan foydalanishda davom etasiz.

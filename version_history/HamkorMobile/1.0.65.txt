@@ -1,0 +1,5 @@
+Version: 1.0.65
+Release Date: Aug 30, 2023
+Release Description:
+Yangi qulayliklar qo'shildi, xatolar tuzatildi,
+Добавлены новые удобства, исправлены ошибки

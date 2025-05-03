@@ -1,0 +1,6 @@
+Version: 3.6.3
+Release Date: Oct 11, 2024
+Release Description:
+Updates:
+- The app has become more stable and reliable
+- Now if a loan is approved, you will receive a notification about it

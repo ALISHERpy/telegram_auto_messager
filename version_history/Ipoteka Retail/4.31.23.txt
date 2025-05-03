@@ -1,0 +1,4 @@
+Version: 4.31.23
+Release Date: Oct 30, 2024
+Release Description:
+Новое отображение депозитных продуктов.

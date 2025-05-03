@@ -1,0 +1,7 @@
+Version: 3.8.1
+Release Date: Feb 3, 2025
+Release Description:
+What's new in InfinBANK application:
+- Optimised account login process.
+- Improved security for account authorisation.
+- Fixed bugs.

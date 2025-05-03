@@ -1,0 +1,21 @@
+Version: 3.0.3
+Release Date: Dec 22, 2024
+Release Description:
+В новой версии мы продолжаем делать приложение лучше для вас:
+- Изменён раздел "Сервисы"
+- На главный экран добавлены разделы "Шаблоны" и "Сервисы"
+- Улучшен раздел "Недавние получатели" на главном экране
+- Добавлена возможность отображения счетов на главном экране
+- Исправление текстовых и визуальных ошибок
+Yangi versiyada biz ilovani siz uchun yaxshilashda davom etamiz:
+- "Xizmatlar" bo'limi o'zgartirildi
+- Asosiy ekranga “Shablonlar” va “Xizmatlar” bo‘limlari qo‘shildi
+- Asosiy ekrandagi "Oxirgi qabul qiluvchilar" bo'limi yaxshilandi
+-Asosiy ekranda hisobraqamlarni ko'rsatish imkoniyati qo'shildi
+- matndagi va vizual xatolarni tuzatish
+On the new version of app we continue to make it better for you:
+- “Services" section is changed
+- “Templates” and “Services” sections are added to the main screen
+- “Recent Recipients" section is improved on the main screen
+- Option to display accounts on the main screen is added
+- Correction of text and visual errors

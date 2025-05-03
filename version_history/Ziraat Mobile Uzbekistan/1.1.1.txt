@@ -1,0 +1,10 @@
+Version: 1.1.1
+Release Date: 23 Mar 2021
+Release Description:
+- Logout screen was modified
+- Localization bugs were fixed
+- Dashboard new design applied
+- Delete Card feature was added
+- Card design bugs were fixed
+- Money Transfers - last screen changed
+- Print button fixed displaying receipt

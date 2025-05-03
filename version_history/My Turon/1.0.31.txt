@@ -1,0 +1,4 @@
+Version: 1.0.31
+Release Date: Sep 18, 2024
+Release Description:
+Исправлены ошибки печати чеков операций в истории

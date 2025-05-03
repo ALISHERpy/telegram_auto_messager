@@ -1,0 +1,4 @@
+Version: 7.47.1
+Release Date: Mar 21, 2025
+Release Description:
+Several bugs have been addressed to improve overall functionality. Please update to the latest version for an enhanced experience

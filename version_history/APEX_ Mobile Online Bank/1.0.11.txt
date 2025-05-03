@@ -1,0 +1,8 @@
+Version: 1.0.11
+Release Date: 20 Mar 2025
+Release Description:
+1. Optimization of the application:
+Increased loading and transaction processing speed for smoother and faster interaction with the service.
+2. Bug fixes and minor improvements:
+We fixed the detected bugs and optimized for stable operation on all devices.
+Thank you for your trust and feedback! We are constantly working to make your banking experience as safe and comfortable as possible.

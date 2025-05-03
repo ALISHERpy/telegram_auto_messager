@@ -1,0 +1,4 @@
+Version: 1.0.4
+Release Date: Feb 27, 2023
+Release Description:
+Оптимизация приложения и исправления ошибок

@@ -1,0 +1,4 @@
+Version: 7.43.1
+Release Date: Feb 23, 2025
+Release Description:
+Recent updates have helped us fine-tune the app performance, making your mobile banking experience bug free

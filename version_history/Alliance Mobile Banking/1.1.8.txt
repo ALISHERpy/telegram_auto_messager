@@ -1,0 +1,4 @@
+Version: 1.1.8
+Release Date: 11 May 2024
+Release Description:
+- Исправлены ошибки в платежах.

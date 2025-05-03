@@ -1,0 +1,5 @@
+Version: 2.1.0
+Release Date: Oct 3, 2024
+Release Description:
+В новом релизе изменили визуал кнопки uzumpay на QR. Распределили разделы по основным экранам и убрали кнопку "Меню" для вашего удобства. Также повысили стабильность приложения и устранили мелкие баги.
+Yangi versiyada uzumpay tugmasining ko‘rinishi QR-kodga o‘zgartirildi. Sizga qulaylik yaratish maqsadida bo‘limlarni asosiy ekranlarga joylashtirdik va "Menyu" tugmasini olib tashladik. Bundan tashqari, ilovaning ishlash barqarorligi oshirildi hamda kichik xatolar bartaraf etildi.

@@ -1,0 +1,5 @@
+Version: 1.55.294
+Release Date: May 6, 2024
+Release Description:
+- Исправлены мелкие ошибки
+- Улучшена стабильность

@@ -1,0 +1,9 @@
+Version: 1.1.21
+Release Date: Dec 28, 2023
+Release Description:
+Sizni kirib kelayotgan Yangi yil bilan tabriklaymiz!
+Bank xizmatlari tarixini kuzatish imkoniyati joriy etildi. Tarix->Mening arizalarim
+Talabga binoan "Qorong'u mavzu" amalga oshirildi. Profil->Interfeys sozlamalari->Temalar. Bu birinchi versiya, shuning uchun kichik xatolar bo'lishi mumkin.
+Поздравляем вас с наступающим Новым годом!
+Реализована возможность отслеживать историю обслуживания по банковским операциям История->Мои заявки
+По многочисленным просьбам реализована “Темная тема”. Профиль->Настройки интерфейса->Темы. Это первая версия, поэтому могут быть мелкие недочеты.

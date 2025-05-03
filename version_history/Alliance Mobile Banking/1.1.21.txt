@@ -1,0 +1,6 @@
+Version: 1.1.21
+Release Date: 25 Jul 2024
+Release Description:
+Уважаемые пользователи Alliance:
+В этой версии мы добавили изменения в «Виджеты» и «Мои продукты».
+С уважением, Asia Alliance Bank.

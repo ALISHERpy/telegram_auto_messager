@@ -1,0 +1,6 @@
+Version: 2.5.0
+Release Date: Nov 27, 2024
+Release Description:
+Внесли исправления и повысили стабильность сервисов. Добавили знакомство с продуктами для новых пользователей. Готовимся к
+следующим обновлениям и релизам - зима близко.
+Servislarga tuzatishlar kiritdik va ularning barqarorligini oshirdik. Yangi foydalanuvchilar uchun mahsulotlar bilan tanishuv funksiyasini qo’shdik. Keyingi yangilanishlar va relizlarga tayyorlanyapmiz - qish yaqin.

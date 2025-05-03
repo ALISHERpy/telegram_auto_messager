@@ -1,0 +1,12 @@
+Version: 1.0.13
+Release Date: Dec 27, 2023
+Release Description:
+- Akkauntingiz endi yaxshiroq himoyalandi.
+- Kreditlaringiz haqida batafsil ma'lumotlar doim siz bilan birga.
+- Kredit IDingizni passport seriya va raqamingiz orqali tezda olishingiz mumkin.
+- Karta raqamingizni bilish uchun rekvizitlarga boqing.
+- Omonat ochishni xohlasangiz kalkulyatorimizni bir ishlatib ko'ring.
+- Kredit foizini kamaytirib olish imkoniyati yaratildi.
+- Umumiy ma'lumotlaringizni tartiblab qo'ydik.
+- Fasllar o'zgarishini biz bilan birga his eting.
+- Qor va yomg'ir manzarasi esa kayfiyatingizni ko'tarishiga ishonamiz.

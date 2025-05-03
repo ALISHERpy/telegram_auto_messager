@@ -1,0 +1,7 @@
+Version: 1.5.0
+Release Date: 4 May 2021
+Release Description:
+- Money Transfer new design adopted
+- Payments new design adopted
+- Bank on map applied
+- Minor bugs fixed

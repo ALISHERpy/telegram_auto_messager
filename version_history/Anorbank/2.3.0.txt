@@ -1,0 +1,4 @@
+Version: 2.3.0
+Release Date: Sep 7, 2024
+Release Description:
+No innovations, no surprises. We just remind you that we are always on the lookout for stability!

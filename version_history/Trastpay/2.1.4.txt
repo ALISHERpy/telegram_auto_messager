@@ -1,0 +1,13 @@
+Version: 2.1.4
+Release Date: Aug 29, 2024
+Release Description:
+UZ
+- Tekin pul  o'tkazmalari
+- Uzcard, HUMO, Mastercard virtual kartalarga buyurtma berish
+- Mening uyim bo'limida to'lov kvitansiyalari
+- Xavfsizlik sahifasida faol seanslarni ko'rsatish
+RU
+- Переводы без комиссии
+- Заказ виртуальных карт Uzcard, HUMO, Mastercard
+- Квитанции об оплатах в разделе мой дом
+- Безопасность - отображение активных сессий

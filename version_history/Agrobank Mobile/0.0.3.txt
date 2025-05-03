@@ -1,0 +1,5 @@
+Version: 0.0.3
+Release Date: Nov 19, 2022
+Release Description:
+- Оптимизации;
+- Исправление ошибок;

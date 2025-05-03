@@ -1,0 +1,5 @@
+Version: 2.5.0
+Release Date: Oct 7, 2024
+Release Description:
+We are pleased to announce that now our clients have the ability to receive funds through the "AsiaPay" service on all cards of Uzbekistan without any commissions!
+The process of receiving money from the Russian Federation has become even more convenient and fast! We look forward to your feedback!

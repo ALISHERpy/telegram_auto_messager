@@ -1,0 +1,4 @@
+Version: 2.9.4
+Release Date: Aug 31, 2024
+Release Description:
+* Исправления ошибок и оптимизация интерфейса

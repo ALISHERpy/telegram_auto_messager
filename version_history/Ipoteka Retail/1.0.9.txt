@@ -1,0 +1,4 @@
+Version: 1.0.9
+Release Date: Oct 29, 2022
+Release Description:
+Улучшена производительность

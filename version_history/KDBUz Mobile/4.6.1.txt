@@ -1,0 +1,9 @@
+Version: 4.6.1
+Release Date: Mar 7, 2024
+Release Description:
+Nima yangiliklar:
+- Ba'zi xatolar tuzatildi va yaxshilandi. Bundan tashqari, hisobvaraqdan ko'chirma sanasi oralig'i 6 oydan 12 oyga o'zgartirildi.
+What's new:
+- Some bugs fixed and improvements. In addition, the date range of the statement of account has changed to 12 months from 6 months.
+Что нового:
+- Исправлены некоторые ошибки и внесены улучшения. Кроме того, диапазон дат выписки по счету изменился с 6 месяцев на 12 месяцев.

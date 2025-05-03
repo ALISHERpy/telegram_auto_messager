@@ -1,0 +1,4 @@
+Version: 0.10.2
+Release Date: Jan 15, 2023
+Release Description:
+*мелкие исправления

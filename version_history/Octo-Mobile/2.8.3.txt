@@ -1,0 +1,4 @@
+Version: 2.8.3
+Release Date: Jul 3, 2024
+Release Description:
+* Исправления ошибок и оптимизация интерфейса

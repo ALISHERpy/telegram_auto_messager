@@ -1,0 +1,23 @@
+Version: 1.0.24
+Release Date: Mar 3, 2025
+Release Description:
+Yangi imkoniyatlar:
+- Kredit Axborot Tahliliy Markazi Freeze xizmati –  o‘z kredit tarixingizni (yangi kredit buyurtmalari bo‘yicha) sizning xabaringiz bo‘lmagan holda olinishini cheklab qo‘yish imkoniyati yaratildi.
+- QR online – O‘zbekiston Respublikasi Markaziy banki tashabbusi bilan tezkor to‘lovni amalga oshirishning standartlashtirilgan va universal xizmati ishga tushirildi.
+- Ramazon taqvimi – muborak Ramazon oyi taqvimidan xabardor bo‘lish imkoniyati yaratildi.
+- Visa kartalari orqali to‘lovlar – endilikda Siz Visa kartangiz orqali xizmatlarga to‘lovlarni amalga oshirishingiz mumkin.
+Yaxshilangan xizmatlar:
+- Hamyonga o‘tkazma, konversiya va rekvizit bo‘yicha to‘lovlar dizayni yangilandi – interfeys yanada qulay va tushunarli bo‘ldi.
+- Xavfsizlik siyosati yangilandi – ma’lumotlaringiz va tranzaksiyalaringiz yanada himoyalangan.
+Xatoliklarni tuzatish:
+- Kichik nosozliklar bartaraf etildi, ilovaning barqarorligi yaxshilandi.
+Mablag‘laringiz har doim nazoratingiz ostida, to‘lovlar esa yanada qulay!
+Новые возможности:
+• Freeze-сервис Кредитного Информационно-Аналитического Центра – теперь вы можете ограничить получение вашей кредитной истории без вашего ведома при оформлении новых кредитов.
+• QR Online – запущен стандартизированный и универсальный сервис для мгновенных платежей по инициативе Центрального банка Республики Узбекистан.
+Улучшенные сервисы:
+• Обновлён дизайн перевода в кошелёк, конверсии и платежей по реквизитам – интерфейс стал ещё удобнее и понятнее.
+• Обновлена политика безопасности – ваши данные и транзакции теперь ещё лучше защищены.
+Исправление ошибок:
+• Устранены незначительные неполадки, повышена стабильность работы приложения.
+Ваши финансы всегда под контролем, а платежи – ещё удобнее!

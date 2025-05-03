@@ -1,0 +1,6 @@
+Version: 2.0.1
+Release Date: Jul 29, 2024
+Release Description:
+When the heat outside matches the excitement of EURO 2024, our update brings you convenience and coolness! Now you can manage your finances comfortably under the air conditioner. You asked, and we did:
+— Now you can withdraw money from deposits directly to your card.
+— You can set or change the PIN code for your Uzcard from any bank in the app — no need to look for an ATM in the heat.

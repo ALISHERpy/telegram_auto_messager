@@ -1,0 +1,4 @@
+Version: 5.0.0.46903
+Release Date: Mar 6, 2025
+Release Description:
+Март, весна, обновление. Стало быстрее и стабильнее.

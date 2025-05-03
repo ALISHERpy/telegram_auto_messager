@@ -1,0 +1,5 @@
+Version: 1.0.73
+Release Date: Dec 29, 2023
+Release Description:
+Kichik kamchiliklar bertaraf etildi, xabarnoma ishga tushirildi.
+Исправили баги, Включили уведомление

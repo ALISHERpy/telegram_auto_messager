@@ -1,0 +1,5 @@
+Version: 2.6.0
+Release Date: Dec 11, 2024
+Release Description:
+С новой версии можно самостоятельно восстанавливать пароль — без лишних действий, но все так же безопасно. Продлили до конца года кешбэк 1050 сум с каждой поездки на метро в Ташкенте при оплате картой Uzum в приложении. Продолжаем развивать инструменты для простого и удобного управления финансами
+Yangi versiyada parolni mustaqil ravishda tiklash mumkin — ortiqcha harakatlarsiz, ammo ilgarigidek xavfsiz. Shuningdek, Toshkent metrosida ilova orqali Uzum karta bilan to'lashda 1050 so'mlik keshbekni yil so'ngiga qadar uzaytirdik. Mablag'larni oson va qulay boshqarish uchun vositalarni takomillashtirishda davom etyapmiz

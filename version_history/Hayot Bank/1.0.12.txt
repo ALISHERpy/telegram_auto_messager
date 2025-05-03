@@ -1,0 +1,4 @@
+Version: 1.0.12
+Release Date: Nov 27, 2024
+Release Description:
+Ilovaning yangilangan versiyasida kichik xatolar tuzatildi va barqarorlik yaxshilandi.

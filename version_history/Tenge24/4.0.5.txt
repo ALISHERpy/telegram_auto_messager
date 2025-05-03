@@ -1,0 +1,4 @@
+Version: 4.0.5
+Release Date: Aug 2, 2024
+Release Description:
+- исправили ошибки и улучшили работу приложение

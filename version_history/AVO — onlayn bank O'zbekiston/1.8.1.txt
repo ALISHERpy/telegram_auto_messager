@@ -1,0 +1,4 @@
+Version: 1.8.1
+Release Date: Jan 17, 2025
+Release Description:
+Dasturchilarimiz yovuz baglarni ovlash uchun raqamli jungli o'rmonlariga yo'lga chiqdilar. Kodli labirintlardan o'tib, qo'zg'olonchilarni qo'lga oldilar va ularni foydali fichalarga aylantirdilar. Endi ilovamiz yanada barqaror va qulay ishlayapti!

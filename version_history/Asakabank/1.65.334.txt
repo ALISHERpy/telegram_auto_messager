@@ -1,0 +1,5 @@
+Version: 1.65.334
+Release Date: Nov 14, 2024
+Release Description:
+- Исправлены мелкие ошибки
+- Улучшена стабильность

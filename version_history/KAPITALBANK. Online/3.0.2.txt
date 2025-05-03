@@ -1,0 +1,6 @@
+Version: 3.0.2
+Release Date: Dec 10, 2024
+Release Description:
+В новой версии мы продолжаем делать приложение лучше для вас - исправляем баги, улучшаем производительность и делаем интерфейс ещё удобнее
+Yangi versiyasida biz dasturni siz uchun yaxshilashda davom etamiz — biz xatolarni tuzatamiz, ishlashini yaxshilaymiz va interfeysni yanada qulayroq qilamiz
+On the new version, we continue to make the application better for you - we fix bugs, improve performance and make the interface even more convenient

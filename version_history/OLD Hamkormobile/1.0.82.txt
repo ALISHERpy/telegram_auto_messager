@@ -1,0 +1,5 @@
+Version: 1.0.82
+Release Date: Apr 23, 2024
+Release Description:
+Kichik kamchiliklar bertaraf etildi
+Исправили баги
