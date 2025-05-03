@@ -1,9 +1,0 @@
-Version: 11.10.7
-Release Date: Mar 6, 2025
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi.
-What's new:
-- Fixed some bugs and made improvements.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

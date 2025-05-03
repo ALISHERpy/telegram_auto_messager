@@ -1,7 +1,0 @@
-Version: 3.8.2
-Release Date: Feb 5, 2025
-Release Description:
-What's new in the app:
-- Added new product - the installment card
-- Fixed bugs
-- Optimized app performance

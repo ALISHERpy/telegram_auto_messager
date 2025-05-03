@@ -1,6 +1,0 @@
-Version: 1.6.0
-Release Date: Apr 1, 2024
-Release Description:
-— Simplified remote identification — we now ask for less data
-— Bug fixes and improvements to the speed of application. Now it's slightly faster than a black tinted Gentra)
-We are a bit proud to be the best mobile app among Uzbekistan's commercial banks according to #SNS. We celebrated this and our favorite holiday, Navruz. We made sumalak and visited relatives. How were your holidays?

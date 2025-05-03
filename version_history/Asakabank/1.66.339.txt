@@ -1,5 +1,0 @@
-Version: 1.66.339
-Release Date: Dec 2, 2024
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

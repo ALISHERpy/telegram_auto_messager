@@ -1,6 +1,0 @@
-Version: 2.4.1
-Release Date: Oct 1, 2024
-Release Description:
-Ushbu yangilanishda biz sizga mutloq yangilangan "Mening uyim" bo'limini taqdim etishdan mamnunmiz. Yangi va zamonaviy dizayn nafaqat ko'zni quvontiradi, balki xizmatlarni qo'shish va to'lovlarni amalga oshirish jarayonini intuitiv va oson qiladi.
-Bundan tashqari, kichik nosozliklar tuzatildi va dastur yanada xavfsizroq qilindi.
-Sizning taassurotlaringiz va fikr-mulohazalaringizni kutamiz!

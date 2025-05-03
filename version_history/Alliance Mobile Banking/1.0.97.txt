@@ -1,4 +1,0 @@
-Version: 1.0.97
-Release Date: 28 Oct 2023
-Release Description:
-Установлена ​​функция Visa set tet pin.

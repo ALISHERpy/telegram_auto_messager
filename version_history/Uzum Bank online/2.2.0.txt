@@ -1,5 +1,0 @@
-Version: 2.2.0
-Release Date: Oct 17, 2024
-Release Description:
-В новой версии упростили оплату метро QR-кодом. Поправили небольшие недочеты и обновили дизайн элементов приложения — теперь им еще удобнее пользоваться.
-Yangi relizda QR-kod orqali metroda to‘lovni amalga oshirish jarayoni soddalashtirildi. Ilovadagi ayrim kichik xatoliklar bartaraf etilib, uning elementlari dizayni yangilandi — endi ilovadan foydalanish yanada qulay va oson.

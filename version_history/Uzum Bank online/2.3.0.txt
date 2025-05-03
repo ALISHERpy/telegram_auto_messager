@@ -1,5 +1,0 @@
-Version: 2.3.0
-Release Date: Oct 30, 2024
-Release Description:
-Навели порядок в интерфейсе и в меню управления картами, поправили небольшие баги. В приложении теперь можно за пару минут открыть карту Uzum Visa — с бесплатным обслуживанием и пополнением с других карт. Переводы без комиссии на Uzcard и Humo до конца года, на карты Uzum – всегда.
-Interfeysni tartibga keltirdik va kartalarni boshqarish menyusida kichikroq xatoliklarni tuzatdik. Endilikda ilovada Uzum Visa kartasini bir necha daqiqa ichida ochish mumkin – unga xizmat ko‘rsatish bepul hamda boshqa kartalardan to‘ldirish mumkin. Komissiyasiz o‘tkazmalar Uzcard va Humo kartalari uchun yil so‘ngiga qadar, Uzum karta uchun – doimo.

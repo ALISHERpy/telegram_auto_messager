@@ -1,6 +1,0 @@
-Version: 1.0.10
-Release Date: 6 Mar 2025
-Release Description:
-Made changes that improved stability
-And to make the application even better, worked on optimization
-Update soon

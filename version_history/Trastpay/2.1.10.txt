@@ -1,6 +1,0 @@
-Version: 2.1.10
-Release Date: Feb 12, 2025
-Release Description:
-- В целях вашей безопасности функция мобильного приложения была улучшена.
-- Sizning xavfsizligingizni ta'minlash maqsadida mobil ilova funksiyasi yaxshilandi.
-- For your safety, the functionality of the mobile application has been improved.

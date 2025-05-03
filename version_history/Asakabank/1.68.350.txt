@@ -1,5 +1,0 @@
-Version: 1.68.350
-Release Date: Dec 28, 2024
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

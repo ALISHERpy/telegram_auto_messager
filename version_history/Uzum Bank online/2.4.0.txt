@@ -1,5 +1,0 @@
-Version: 2.4.0
-Release Date: Nov 12, 2024
-Release Description:
-Запустили повышенный кэшбэк с каждой поездки на метро в Ташкенте при оплате картой Uzum в приложении. Исправили баги и неточности, чтобы всё работало ещё быстрее и стабильнее - и вы были полностью готовы к старту сезона распродаж.
-Toshkent metrosida har bir safar uchun ilovadagi Uzum karta bilan to’lashda oshirilgan keshbekni ishga tushirdik. Tizim yanada barqaror va tezroq ishlashi hamda siz chegirmalar mavsumiga to’liq tayyor bo’lishingiz uchun xatolik va muammolarni tuzatdik.

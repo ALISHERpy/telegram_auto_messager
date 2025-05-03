@@ -1,5 +1,0 @@
-Version: 2.10.0
-Release Date: Feb 27, 2025
-Release Description:
-Оплачивать госуслуги стало проще. Вносите платежи на my.gov.uz в пару кликов — в приложении Uzum Bank или в рассрочку Uzum Nasiya
-Davlat xizmatlari uchun to'lov qilish endi yanada oson. Uzum Bank ilovasida yoki Uzum Nasiya muddatli to'lovi bilan my.gov.uz to'lovlarini bir necha klik orqali to'lang

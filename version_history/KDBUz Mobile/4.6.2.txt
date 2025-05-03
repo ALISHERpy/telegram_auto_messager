@@ -1,9 +1,0 @@
-Version: 4.6.2
-Release Date: Mar 18, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilandi.
-What's new:
-- Some bugs fixed and improvements.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

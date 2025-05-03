@@ -1,4 +1,0 @@
-Version: 3.0.5
-Release Date: Sep 2, 2024
-Release Description:
-- исправлены мелкие ошибки

@@ -1,5 +1,0 @@
-Version: 1.0.8
-Release Date: Oct 31, 2023
-Release Description:
-— Улучшено прохождение проверки
-— Исправление ошибок

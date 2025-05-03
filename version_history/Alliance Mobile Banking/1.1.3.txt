@@ -1,4 +1,0 @@
-Version: 1.1.3
-Release Date: 22 Feb 2024
-Release Description:
-- Исправлены некоторые ошибки в "Курсе валюты"

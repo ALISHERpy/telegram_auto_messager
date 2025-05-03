@@ -1,6 +1,0 @@
-Version: 3.6.0
-Release Date: Aug 14, 2024
-Release Description:
-What's new:
-Logging into the app has become faster and more convenient, which allows you to access your financial data faster;
-We have fixed bugs to make the app more stable and reliable to use.

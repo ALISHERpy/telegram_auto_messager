@@ -1,4 +1,0 @@
-Version: 1.0.9
-Release Date: Aug 18, 2024
-Release Description:
-Ushbu yangilashda biz ish faoliyatini yaxshiladik va milliy valyutada omonatni ochish hamda mikroqarz olish imkoniyatini qo'shdik.

@@ -1,4 +1,0 @@
-Version: 1.10.2
-Release Date: Feb 20, 2025
-Release Description:
-Detallar biz uchun muhim! Bu versiyada katta o‘zgarishlar bo‘lmasa-da, sizga yanada qulayroq bo‘lishi uchun kichik xatolarni bartaraf etishga alohida e’tibor berdik. Ilovani hoziroq yangilashingiz mumkin!

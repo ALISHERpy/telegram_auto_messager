@@ -1,5 +1,0 @@
-Version: 1.71.360
-Release Date: Jan 29, 2025
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

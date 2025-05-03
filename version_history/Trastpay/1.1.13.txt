@@ -1,4 +1,0 @@
-Version: 1.1.13
-Release Date: Aug 2, 2023
-Release Description:
-Добавлена новая версия SDK

@@ -1,6 +1,0 @@
-Version: 2.1.11
-Release Date: Feb 26, 2025
-Release Description:
-- Запущена новая услуга «Инвестиции»!
-- Yangi "investitsiyalar" xizmati ishga tushirildi!
-- A new Investment service has been launched!

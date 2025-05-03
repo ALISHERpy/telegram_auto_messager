@@ -1,9 +1,0 @@
-Version: 6.3.1
-Release Date: Jun 26, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi.
-What's new:
-- Some bugs were fixed and improvements were made.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

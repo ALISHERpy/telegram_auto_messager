@@ -1,6 +1,0 @@
-Version: 1.1.0
-Release Date: 15 Mar 2021
-Release Description:
-- Updates in Login page.
-- Updates in Dashboard screen.
-- Fix minor bugs.

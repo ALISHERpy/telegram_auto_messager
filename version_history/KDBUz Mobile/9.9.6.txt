@@ -1,9 +1,0 @@
-Version: 9.9.6
-Release Date: Nov 28, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi.
-What's new:
-- Fixed some bugs and made improvements.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

@@ -1,5 +1,0 @@
-Version: 1.4.12
-Release Date: Jul 10, 2024
-Release Description:
-Aybdorlarni jazolashda davom etamiz. Bu safar biz ilovamiz ishlashiga xalaqit berayotgan kamchiliklarni izlab topdik.
-Endi sinab ko'ring-chi

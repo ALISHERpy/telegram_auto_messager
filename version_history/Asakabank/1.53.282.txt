@@ -1,5 +1,0 @@
-Version: 1.53.282
-Release Date: Feb 23, 2024
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

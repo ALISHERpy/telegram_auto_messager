@@ -1,5 +1,0 @@
-Version: 1.0.77
-Release Date: Feb 16, 2024
-Release Description:
-Kichik kamchiliklar bertaraf etildi
-Исправили баги

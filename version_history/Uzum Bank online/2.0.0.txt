@@ -1,7 +1,0 @@
-Version: 2.0.0
-Release Date: Sep 18, 2024
-Release Description:
-В новом релизе полностью изменили дизайн главной страницы — теперь пользоваться приложением стало ещё удобнее.
-Переводы по номеру карты стали проще и появился раздел «Вопросы и ответы».
-Также улучшили интерфейс и производительность приложения.
-Yangi versiyada asosiy sahifa dizayni butunlay o‘zgartirildi — endi ilovadan foydalanish yanada qulayroq. Karta raqami orqali pul o‘tkazmalari soddalashtirildi va "Savol-javoblar" bo‘limi qo‘shildi. Shuningdek, ilova interfeysi va ishlash tezligi takomillashtirildi.

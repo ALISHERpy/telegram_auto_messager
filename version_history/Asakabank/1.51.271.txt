@@ -1,5 +1,0 @@
-Version: 1.51.271
-Release Date: Jan 23, 2024
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

@@ -1,7 +1,0 @@
-Version: 2.1.0
-Release Date: Aug 13, 2024
-Release Description:
-We congratulate Uzbekistan on its Olympic victories. We are proud of the achievements of our athletes and share our joy with you!
-We also strive to keep up and continue to lead in the rating of "The best mobile applications of commercial banks in Uzbekistan" according to SNS Ratings.
-We have a new partner — Rahmat. Now it is faster and more convenient to pay bills in cafes and restaurants through ANORBANK.
-We have added the cashback amount to the payment screen. Simplified the identity verification process in the application.

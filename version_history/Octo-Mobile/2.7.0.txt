@@ -1,4 +1,0 @@
-Version: 2.7.0
-Release Date: Feb 22, 2024
-Release Description:
-* Исправления ошибок и оптимизация интерфейса

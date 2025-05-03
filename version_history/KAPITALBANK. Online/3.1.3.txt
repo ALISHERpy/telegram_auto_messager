@@ -1,6 +1,0 @@
-Version: 3.1.3
-Release Date: Mar 19, 2025
-Release Description:
-Исправление багов и мелкие изменения
-Xatoliklarni tuzatish va kichik o’zgarishlar
-Bugs fixing and minor changes

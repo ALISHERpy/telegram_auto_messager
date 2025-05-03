@@ -1,6 +1,0 @@
-Version: 2.0.8
-Release Date: Feb 23, 2024
-Release Description:
-Исправление багов и ошибок приложения
-Ilovadagi xato va kamchiliklarni tuzatish
-Fixing bugs and application errors

@@ -1,4 +1,0 @@
-Version: 2.8.4
-Release Date: Jul 9, 2024
-Release Description:
-* Исправления ошибок и оптимизация интерфейса

@@ -1,6 +1,0 @@
-Version: 1.1.27
-Release Date: 20 Feb 2025
-Release Description:
-Уважаемые пользователи Alliance:
-- Сделали более стабильным, исправили ошибки.
-С уважением, Asia Alliance Bank.

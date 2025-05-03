@@ -1,4 +1,0 @@
-Version: 3.0.8
-Release Date: Oct 2, 2024
-Release Description:
-Исправлены мелкие ошибки

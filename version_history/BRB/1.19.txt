@@ -1,4 +1,0 @@
-Version: 1.19
-Release Date: Oct 29, 2023
-Release Description:
-Bug fixed

@@ -1,5 +1,0 @@
-Version: 3.4.7
-Release Date: May 31, 2023
-Release Description:
-What's new:
--fixed a few other bugs that you didn't notice, but they kept us from being a great app.

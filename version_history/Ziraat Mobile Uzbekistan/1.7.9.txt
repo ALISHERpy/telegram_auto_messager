@@ -1,4 +1,0 @@
-Version: 1.7.9
-Release Date: 13 Mar 2023
-Release Description:
-Изменения Логотипа

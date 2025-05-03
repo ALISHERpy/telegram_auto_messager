@@ -1,9 +1,0 @@
-Version: 0.21.131
-Release Date: Jun 20, 2024
-Release Description:
-- Call-Markaz identifikasiya
-- Xatolar tuzatildi
-- Call-центр идентификация
-- Исправлены ошибки
-- Call center identification
-- Bug fixes

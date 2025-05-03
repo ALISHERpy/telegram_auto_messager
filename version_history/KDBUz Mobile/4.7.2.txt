@@ -1,9 +1,0 @@
-Version: 4.7.2
-Release Date: Mar 19, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilandi. Asosiy oyna mavzusini tahrirlash imkoniyati qo'shildi.
-What's new:
-- Some bugs fixed and improvements. Added ability to edit main window theme.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения. Добавлена ​​возможность редактировать тему главного окна.

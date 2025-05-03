@@ -1,4 +1,0 @@
-Version: 1.0.40
-Release Date: Jan 4, 2025
-Release Description:
-Исправлена ошибка регистрации при вводе смс кода

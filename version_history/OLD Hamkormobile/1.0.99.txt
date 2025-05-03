@@ -1,4 +1,0 @@
-Version: 1.0.99
-Release Date: Mar 17, 2025
-Release Description:
-Исправленый некоторые баги

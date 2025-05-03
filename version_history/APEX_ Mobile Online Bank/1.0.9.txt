@@ -1,9 +1,0 @@
-Version: 1.0.9
-Release Date: 21 Feb 2025
-Release Description:
-Home Screen: We’ve added a new vibrant section for quick access to loan offers.
-Loan Repayment: You can now repay your loan early using a deposit or savings account, while scheduled payments are available for all except the savings account.
-Application Status Update: Now you can update the status with a simple swipe.
-Application Check: If you already have an active application, a new one won’t be created.
-Security Improvements: We’ve enhanced security for a safer app experience.
-Update the app and explore the new features!

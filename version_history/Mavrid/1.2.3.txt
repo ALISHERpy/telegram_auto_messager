@@ -1,8 +1,0 @@
-Version: 1.2.3
-Release Date: Mar 19, 2025
-Release Description:
-Что нового:
-Visa Direct
-Visa Alias
-Весенняя тема
-Исправление ошибок

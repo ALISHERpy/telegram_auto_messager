@@ -1,7 +1,0 @@
-Version: 1.35
-Release Date: Aug 27, 2024
-Release Description:
-We are pleased to announce that a new version of our mobile application has been released with an updated design!We are pleased to announce that a new version of our mobile application has been released with an updated design!
-1.The monitoring section has been updated
-2.The new currency section has been updated
-3.Bug Fixed

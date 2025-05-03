@@ -1,9 +1,0 @@
-Version: 3.4.9
-Release Date: Aug 10, 2023
-Release Description:
-In this grand release meet the new VISA credit card in local currency with much favorable terms and conditions:
-- renewable interest-free period up to 50 days on purchases;
-- a card for 5 years;
-- renewable limit up to 50 million UZS;
-- a card that can be used all over the world!
-Plus you can also order delivery of the card to all cities where the branchs of the bank is operating.

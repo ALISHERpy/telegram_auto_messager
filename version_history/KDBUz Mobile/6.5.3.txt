@@ -1,9 +1,0 @@
-Version: 6.5.3
-Release Date: Sep 5, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi.
-What's new:
-- Some bugs were fixed and improvements were made.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

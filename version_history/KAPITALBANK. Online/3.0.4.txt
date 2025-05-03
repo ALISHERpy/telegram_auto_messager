@@ -1,6 +1,0 @@
-Version: 3.0.4
-Release Date: Jan 17, 2025
-Release Description:
-Исправление багов и мелкие изменения
-Xatoliklarni tuzatish va kichik o’zgarishlar
-Bugs fixing and minor changes

@@ -1,9 +1,0 @@
-Version: 3.4.4
-Release Date: Jan 7, 2023
-Release Description:
-What's new?
-Now we are:
-- more convenient. We have set up the transfer by phone number with VISA Alias
-- clearer. We expanded the information on countries and limit conditions in VISA Direct
-- closer. We added the service to order delivery of cards to all regions of Uzbekistan.
-- better. We fixed small bugs which are unnoticeable for you but unpleasant for us.

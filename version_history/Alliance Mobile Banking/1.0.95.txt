@@ -1,4 +1,0 @@
-Version: 1.0.95
-Release Date: 25 Oct 2023
-Release Description:
-Check sms with payments

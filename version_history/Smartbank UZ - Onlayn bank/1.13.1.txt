@@ -1,4 +1,0 @@
-Version: 1.13.1
-Release Date: Nov 8, 2024
-Release Description:
-Устранили пару багов

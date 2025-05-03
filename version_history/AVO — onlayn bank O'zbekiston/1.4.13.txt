@@ -1,4 +1,0 @@
-Version: 1.4.13
-Release Date: Jul 18, 2024
-Release Description:
-Missiya bajarildi! Biz to'polonchi baglar uyasini aniqladik va kuchli kod bilan hammasini xavfsizlantirdik. Minuslarni plyuslarga o'zgartirish maqsadida — aybdorlarni raqamli axloq tuzatish muassasasiga yubordik. Pullaringiz haqida qayg'urmay, tinchgina uxlang. IT-xodimlarimiz sizni himoya qilishadi!

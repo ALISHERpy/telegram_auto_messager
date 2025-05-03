@@ -1,4 +1,0 @@
-Version: 0.10.5
-Release Date: Jul 31, 2023
-Release Description:
--Исправили ошибки

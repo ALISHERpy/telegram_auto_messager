@@ -1,6 +1,0 @@
-Version: 1.0.18
-Release Date: Mar 15, 2025
-Release Description:
-Приветствуем!
-- Bыполнены дополнительные оптимизации и исправления ошибоки
-Universalbank становится лучше!

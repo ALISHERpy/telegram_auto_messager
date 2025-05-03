@@ -1,9 +1,0 @@
-Version: 1.8.0
-Release Date: May 29, 2024
-Release Description:
-While everyone was actively going to the mountains, grilling kebabs, and flying kites, we were working. Even on weekends. Let us explain)
-We have two new currency deposits — "Qulay" and "Balandda". One of them offers as much as 9% annually in US dollars. If you were looking for the most beneficial offer, you can stop searching — it's now in the Anorbank app.
-We made currency exchange more beneficial — the more you exchange, the better the rate.
-For clarity, we added a table with the rates in the "Currency exchange" section.
-"Paymant on places" has also been introduced. If you are in a store or a cafe — turn on the geolocation, and we will look for a partner. The feature is already on the main page.
-We've shed some extra weight for the summer — in the form of bugs. Are you ready for the summer season?

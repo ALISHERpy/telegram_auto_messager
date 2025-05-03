@@ -1,7 +1,0 @@
-Version: 1.4.7
-Release Date: Apr 24, 2024
-Release Description:
-Ilovamizning yangi versiyasida nimalar o'zgarganini aytib beramiz
-1. Endi har oy ilovada hisobingiz bo'yicha ko'chirma olishingiz mumkin. Ko'chirma AVO platinum kartangiz bo'yicha xarajat va daromadlarni osongina boshqarishga yordam beradi
-2. Mablag'laringiz ishonchli himoya ostida bo'lishi uchun ilovaning xavfsizligini yanada kuchaytirdik
-3. Kichik xatolarni tuzatdik, ilovamiz endi yanada qulayroq va tezroq

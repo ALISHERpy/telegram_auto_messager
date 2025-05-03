@@ -1,6 +1,0 @@
-Version: 1.0.18
-Release Date: Oct 12, 2024
-Release Description:
-• Optimallashtirish va xatolarni tuzatish: Biz ilovaning samaradorligini oshirdik va ma'lum xatolarni tuzatdik, barqaror va ishonchli foydalanish uchun.
-• Оптимизация и исправление ошибок: Мы улучшили производительность приложения и исправили известные ошибки, обеспечивая более стабильную и надежную работу.
-• Performance optimization and bug fixes: We've enhanced the app’s performance and fixed known bugs to ensure more stable and reliable usage.

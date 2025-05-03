@@ -1,8 +1,0 @@
-Version: 1.2.2
-Release Date: Feb 4, 2025
-Release Description:
-Что нового:
-Исправление ошибок
-Сброс/Смена ПИН-код
-Master-Card конверсия
-Master-Card сброс пин

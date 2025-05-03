@@ -1,5 +1,0 @@
-Version: 1.0.72
-Release Date: Dec 7, 2023
-Release Description:
-Kick kamchiliklar bertaraf etildi, xabarnoma ishga tushirildi.
-Исправили баги, Включили уведомление

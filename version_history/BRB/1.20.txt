@@ -1,5 +1,0 @@
-Version: 1.20
-Release Date: Dec 4, 2023
-Release Description:
-Monitoring cards is added to Home page
-Minor changes

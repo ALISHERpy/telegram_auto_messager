@@ -1,4 +1,0 @@
-Version: 1.33
-Release Date: Jul 25, 2024
-Release Description:
--Добавлена ​​услуга получить онлайн автокредит

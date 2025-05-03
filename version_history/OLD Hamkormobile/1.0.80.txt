@@ -1,5 +1,0 @@
-Version: 1.0.80
-Release Date: Apr 4, 2024
-Release Description:
-Kichik kamchiliklar bertaraf etildi
-Исправили баги

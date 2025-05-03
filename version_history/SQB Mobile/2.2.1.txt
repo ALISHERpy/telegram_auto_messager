@@ -1,4 +1,0 @@
-Version: 2.2.1
-Release Date: Sep 29, 2023
-Release Description:
-- исправлены ошибки

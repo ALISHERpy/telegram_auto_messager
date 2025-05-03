@@ -1,9 +1,0 @@
-Version: 4.5.0
-Release Date: Feb 29, 2024
-Release Description:
-Nima yangiliklar:
-- Bazı xatolikar tuzatildi va yaxshilandi.
-What's new:
-- Some bugs fixed and improvements.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

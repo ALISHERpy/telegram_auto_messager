@@ -1,7 +1,0 @@
-Version: 1.0.71
-Release Date: Nov 13, 2023
-Release Description:
-Hamkorbank kreditlari haqida batafsil ma'lumot olish imkoniyati,
-Kartadan kartaga pul o'tkazish yanada qulay, Oxirgi o'tkazilgan kartani tanlash hamda o'z kartları orasıda o'tkazish imkoniyati qo'shildi
-Добавили возможность посмотреть информацию о ваших кредитах
-Переводить с карты на карту стало намного удобнее. Добавили возможность выбора последних получателей, а также переводы между своими картами.

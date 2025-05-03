@@ -1,5 +1,0 @@
-Version: 1.1.5
-Release Date: 3 Apr 2024
-Release Description:
-- Исправлены некоторые ошибки на главной странице.
-- Bозможность добавления «Visa Signature».

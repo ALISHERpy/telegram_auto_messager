@@ -1,6 +1,0 @@
-Version: 3.6.1
-Release Date: Sep 5, 2024
-Release Description:
-What's new:
-- The processing of an application for an InfinBLACK credit card has become faster and will take only 5 minutes instead of 24 hours.
-- Now it is possible to receive money transfers from Russia via Korona Pay.

@@ -1,5 +1,0 @@
-Version: 1.0.91
-Release Date: Nov 5, 2024
-Release Description:
-Kichik kamchiliklar bertaraf etildi
-Исправили баги

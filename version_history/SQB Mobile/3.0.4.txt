@@ -1,4 +1,0 @@
-Version: 3.0.4
-Release Date: Aug 29, 2024
-Release Description:
-- исправлены мелкие ошибки

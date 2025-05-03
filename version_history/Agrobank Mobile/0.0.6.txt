@@ -1,4 +1,0 @@
-Version: 0.0.6
-Release Date: Nov 23, 2022
-Release Description:
-Исправление ошибок

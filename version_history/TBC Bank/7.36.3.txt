@@ -1,4 +1,0 @@
-Version: 7.36.3
-Release Date: Dec 11, 2024
-Release Description:
-Addressed and fixed bugs to enhance your experience. Thank you for your feedback!

@@ -1,5 +1,0 @@
-Version: 3.4.2
-Release Date: Sep 27, 2022
-Release Description:
-What's new:
-- Fixed some issues

@@ -1,8 +1,0 @@
-Version: 1.6.1
-Release Date: 4 Oct 2021
-Release Description:
-- Fixed minor bugs related to Nearest Ziraat (Bank on map);
-- Overdraft loan blocked;
-- Push Notification design improvements;
-- Loan screen improved with loader;
-- minor bug fixes.

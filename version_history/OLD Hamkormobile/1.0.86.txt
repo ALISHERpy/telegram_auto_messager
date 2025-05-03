@@ -1,5 +1,0 @@
-Version: 1.0.86
-Release Date: Sep 10, 2024
-Release Description:
-Kichik kamchiliklar bertaraf etildi
-Исправили баги

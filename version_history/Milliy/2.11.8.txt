@@ -1,4 +1,0 @@
-Version: 2.11.8
-Release Date: Nov 10, 2023
-Release Description:
--В целях усиления защиты сервиса MyID, переход на новую версию.

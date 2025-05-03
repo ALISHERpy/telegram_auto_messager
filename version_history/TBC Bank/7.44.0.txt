@@ -1,4 +1,0 @@
-Version: 7.44.0
-Release Date: Feb 26, 2025
-Release Description:
-In this release, we've ironed out some minor bugs and made improvements in our app to enhance your experience and make your daily banking even smoother.

@@ -1,9 +1,0 @@
-Version: 5.2.1
-Release Date: May 28, 2024
-Release Description:
-Nima yangiliklar:
-- Ba'zi xatolar tuzatildi va yaxshilanishlar amalga oshirildi.
-What's new:
-- Some bugs were fixed and improvements were made.
-Что нового:
-- Исправлены некоторые ошибки и внесены улучшения.

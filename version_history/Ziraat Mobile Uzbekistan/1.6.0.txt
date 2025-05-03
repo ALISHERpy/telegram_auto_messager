@@ -1,9 +1,0 @@
-Version: 1.6.0
-Release Date: 20 Aug 2021
-Release Description:
--  Autopayments implemented for Internet and Mobile operators;
-- Communal payments implemented;
-- Localization and Translation improvements;
-- Minor design improvements;
-- Favorites fixed;
-- other bug fixes.

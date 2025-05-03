@@ -1,4 +1,0 @@
-Version: 1.1.20
-Release Date: 19 Jul 2024
-Release Description:
-Незначительные изменения в ветке Депозит

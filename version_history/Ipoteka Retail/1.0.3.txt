@@ -1,4 +1,0 @@
-Version: 1.0.3
-Release Date: Oct 9, 2022
-Release Description:
-Исправлена ошибка при вызове плагина MyID в Удалённой идентификации.

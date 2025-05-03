@@ -1,5 +1,0 @@
-Version: 3.6.5
-Release Date: Nov 7, 2024
-Release Description:
-What's new:
-Now, for data protection, the InfinBANK app is not available during a call.

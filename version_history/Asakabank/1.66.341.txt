@@ -1,5 +1,0 @@
-Version: 1.66.341
-Release Date: Dec 6, 2024
-Release Description:
-- Исправлены мелкие ошибки
-- Улучшена стабильность

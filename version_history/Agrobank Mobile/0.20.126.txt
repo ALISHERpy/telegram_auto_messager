@@ -1,9 +1,0 @@
-Version: 0.20.126
-Release Date: Mar 26, 2024
-Release Description:
-- Call-Markaz identifikasiya
-- Xatolar tuzatildi
-- Call-центр идентификация
-- Исправлены ошибки
-- Call center identification
-- Bug fixes

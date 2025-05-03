@@ -1,7 +1,0 @@
-Version: 1.5.6
-Release Date: Mar 25, 2024
-Release Description:
-Today, I'm excited to share another update about our app. We've thought about how we could make the app more convenient and have added new features. Catch)
-Now you can order a "Uzcard Kids" directly through the app. Add it to your account to monitor your children's spending and savings. Plus, it protects against losing cash and helps teach them how to use a card.
-The Amirsoy skipass card can now be added and topped up right from our app. Why wait in line when you can do it faster and more conveniently through the app? And just a reminder about the "Pedestrian ticket" purchase option – I've found it handy a couple of times myself.
-By the way, I've started putting away the winter clothes and quilts into storage, eagerly awaiting the weekend. This month, we seem to have more weekends than usual. If you're looking forward to them as much as I am, we're in this together. And the burning question of the day — can you tell in the morning whether to don a down jacket or just step out in a sweater?

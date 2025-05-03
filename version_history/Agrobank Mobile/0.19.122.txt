@@ -1,9 +1,0 @@
-Version: 0.19.122
-Release Date: Feb 9, 2024
-Release Description:
-- "Onlayn navbat" xizmati joriy etildi, endi foydalanuvchilar ilova orqali navbatni onlayn olishlari mumkin
-- Xatolar tuzatildi
-- Добавлена услуга "Онлайн-очередь", теперь пользователи могут забронировать очередь через приложение
-- Исправлены ошибки
-- The "Online queue" service has been added, now users can book a queue through the app
-- Fixed bugs

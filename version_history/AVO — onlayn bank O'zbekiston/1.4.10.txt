@@ -1,5 +1,0 @@
-Version: 1.4.10
-Release Date: Jun 3, 2024
-Release Description:
-Urree! Ilovamizni yangiladik. Hammasi odatdagidek: xatolarni to'g'irladik, kamchiliklarni to'ldirdik. Asosiy urg'u xavfsizlikka yo'naltirildi, shu sababli pullaringiz doim ishonchli himoya ostida.
-Shuningdek, «O'tkazmalar», «To'lovlar» va «Tanlanganlar» bo'limlariga tezkor kirish imkonini qo'shdik. Buning uchun ilovaga kirmasdan, AVO belgisini bosib turish kifoya.

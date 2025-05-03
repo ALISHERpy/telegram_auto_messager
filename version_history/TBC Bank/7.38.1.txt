@@ -1,4 +1,0 @@
-Version: 7.38.1
-Release Date: Dec 27, 2024
-Release Description:
-We’ve added a new payment option to our transaction division feature: Now, you can divide your past transactions and pay in installments over 36 months. If you decide to try it out, share your feedback!

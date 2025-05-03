@@ -1,7 +1,0 @@
-Version: 3.4.1
-Release Date: Sep 16, 2022
-Release Description:
-What's new:
-- Fixed an error which was appearing on the VISA card without a PIN code;
-- The VISA card conversion section no longer displays cards that have been blocked or expired;
-- Improved FaceID functionality, now it works better and takes a face shot even in the dark;

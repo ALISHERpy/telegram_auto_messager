@@ -1,6 +1,0 @@
-Version: 1.0.11
-Release Date: Nov 25, 2024
-Release Description:
-Приветствуем, друзья!
-- Сделали более стабильным, исправили ошибки.
-Universalbank становится лучше!

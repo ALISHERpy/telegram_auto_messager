@@ -1,5 +1,0 @@
-Version: 3.6.4
-Release Date: Nov 1, 2024
-Release Description:
-What's new:
-- Now, to apply for and receive a credit card, you need to authenticate via Face ID

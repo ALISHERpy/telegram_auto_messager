@@ -1,5 +1,0 @@
-Version: 2.9.2
-Release Date: Feb 20, 2025
-Release Description:
-Подтверждать личность стало ещё удобнее: делаете фото лица, вводите данные документа — и всё готово. Ваш профиль под защитой.
-Shaxsni tasdiqlash endi yanada oson: yuzingizni suratga olasiz, hujjat ma'lumotlarini kiritasiz — va hammasi tayyor. Sizning profilingiz himoya ostida.

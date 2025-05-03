@@ -1,5 +1,0 @@
-Version: 2.11.1
-Release Date: Mar 20, 2025
-Release Description:
-Запускаем единый QR-код для оплаты метро и автобусов в Ташкенте. Все просто: нажимаете на иконку QR-кода на главной приложения Uzum Bank Оплата QR-кодом. Сервис уже доступен части пользователей в тестовом режиме, а скоро появится у всех клиентов банка. При оплате проезда с карты Uzum кешбэк 1050 сум до конца апреля
-Toshkentda metro va avtobuslar to’lovi uchun yagona QR-kodni joriy etamiz. Hammasi oddiy: Uzum Bank ilovasidagi Asosiy sahifada QR-kod belgisini bosing QR-kod orqali to’lov. Hozircha servisdan sinov tariqasida foydalanuvchilarning bir qismi, tez kunda barcha bank mijozlari foydalanishni boshlashi mumkin. Yo’l haqini Uzum karta orqali to’lashda 1050 so’m keshbek aprel oxirigacha

@@ -1,5 +1,0 @@
-Version: 1.0.28
-Release Date: Jul 30, 2024
-Release Description:
-Исправление ошибок
-Улучшение работы приложения

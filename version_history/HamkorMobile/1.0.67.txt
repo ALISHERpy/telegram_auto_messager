@@ -1,5 +1,0 @@
-Version: 1.0.67
-Release Date: Oct 3, 2023
-Release Description:
-Yangi qulayliklar qo'shildi, xatolar tuzatildi,
-Добавлены новые удобства, исправлены ошибки

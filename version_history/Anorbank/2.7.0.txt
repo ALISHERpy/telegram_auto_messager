@@ -1,4 +1,0 @@
-Version: 2.7.0
-Release Date: Nov 4, 2024
-Release Description:
-Hi! In this update we have improved security and fixed some bugs that were a bit annoying for your eyes :)

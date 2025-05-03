@@ -1,5 +1,0 @@
-Version: 1.27
-Release Date: Apr 29, 2024
-Release Description:
-- Микрозайм
-- Автокредит

@@ -1,6 +1,0 @@
-Version: 1.1.23
-Release Date: 5 Aug 2024
-Release Description:
-Уважаемые пользователи Alliance:
-Исправлены ошибки в «Платежи», внесены некоторые улучшения и многое другое.
-С уважением, Asia Alliance Bank.

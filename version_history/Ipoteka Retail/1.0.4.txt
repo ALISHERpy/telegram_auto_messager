@@ -1,4 +1,0 @@
-Version: 1.0.4
-Release Date: Oct 23, 2022
-Release Description:
-Улучшена производительность

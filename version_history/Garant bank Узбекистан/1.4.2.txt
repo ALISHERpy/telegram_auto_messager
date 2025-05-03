@@ -1,4 +1,0 @@
-Version: 1.4.2
-Release Date: Sep 17, 2024
-Release Description:
-Исправили ряд ошибок в интерфейсе

@@ -1,6 +1,0 @@
-Version: 2.0.7
-Release Date: Jan 24, 2024
-Release Description:
-Исправление багов и ошибок приложения
-Ilovadagi xato va kamchiliklarni tuzatish
-Fixing bugs and application errors
