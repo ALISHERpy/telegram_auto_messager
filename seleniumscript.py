@@ -90,10 +90,6 @@ class Telegram_auto_messager():
             # Set and send the second message
             js_second = """
             arguments[0].innerText = `Wouu🔥❤️❤️❤️
-        Ты невероятный, 
-        ваши волосы натуральные ??
-        мне очень понравилось
-        Не могли бы вы написать мне?
         @alex_pentesting`;
             arguments[0].dispatchEvent(new InputEvent('input', { bubbles: true }));
             """
